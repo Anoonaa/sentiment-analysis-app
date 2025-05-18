@@ -16,5 +16,8 @@
             "dest": "app.py",
             "methods": ["GET", "POST"]
         }
-    ]
+    ],
+    "env": {
+        "PYTHON_VERSION": "3.9"
+    }
 }
